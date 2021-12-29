@@ -1,6 +1,6 @@
 """
 Image Stitching Problem
-(Due date: Nov. 26, 11:59 P.M., 2021)
+
 
 The goal of this task is to stitch two images of overlap into one image.
 You are given 'left.jpg' and 'right.jpg' for your image stitching code testing. 
